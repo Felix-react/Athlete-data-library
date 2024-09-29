@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // ES6 for modern JavaScript features
+    "moduleResolution": "node", // For using Node.js modules
+    "outDir": "./dist", // Compiled files output to 'dist' directory
+    "strict": true // Enables strict type checking
+  },
+  "include": ["src/**/*"] // Include all TypeScript files in the 'src' folder
+}
